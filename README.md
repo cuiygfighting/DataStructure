@@ -1,2 +1,3 @@
 # DataStructure
-Summary of DataStructure and Algorithm
+Summary of DataStructure and Algorithm.
+
